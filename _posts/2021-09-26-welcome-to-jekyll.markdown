@@ -1,5 +1,5 @@
 ---
-layout: layout-prueba
+layout: post
 title:  "Bienvenido a Jekyll!"
 date:   2021-09-26 19:37:09 -0500
 categories: jekyll update

@@ -1,12 +1,34 @@
-# Hybrid HTML with Markdown is a not bad choice 
-
+---
+layout: post
+title: "Prueba, spaceship"
+date: 2021-10-04 11:00:00 - 0500
+categories: jekyll update
+---
 ## Table Usage
-|              Stage | Direct Products | ATP Yields |
-| -----------------: | --------------: | ---------: |
-|         Glycolysis |          2 ATP              ||
-| ^^                 |          2 NADH |   3--5 ATP |
-| Pyruvaye oxidation |          2 NADH |      5 ATP |
-|  Citric acid cycle |          2 ATP              ||
-| ^^                 |          6 NADH |     15 ATP |
-| ^^                 |          2 FADH |      3 ATP |
-|                               30--32 ATP        |||
+
+| : Easy Multiline: |||
+| : ----- | : ----- | : ------ |
+| Apple | Plátano | Naranja \
+| Apple | Plátano | Naranja \
+| Apple | Plátano | naranja
+| Apple | Plátano | Naranja \
+| Apple | Plátano | Naranja |
+| Apple | Plátano | Naranja |
+
+
+| - | - | - | - | - | - | - | - |
+| ♜ | | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
+| | ♟ | ♟ | ♟ | | ♟ | ♟ | ♟ |
+| ♟ | | ♞ | | | | | |
+| | ♗ | | | ♟ | | | |
+| | | | | ♙ | | | |
+| | | | | | ♘ | | |
+| ♙ | ♙ | ♙ | ♙ | | ♙ | ♙ | ♙ |
+| ♖ | ♘ | ♗ | ♕ | ♔ | | | ♖ |
+
+```mermaid!
+pie title Pets adopted by volunteers
+  "Dogs" : 386
+  "Cats" : 85
+  "Rats" : 35
+```

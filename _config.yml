@@ -60,6 +60,7 @@ baseurl: /holamundo-jekyll/      # place folder name if the site is served in a 
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# Dónde están las cosas 
 # Where things are
 jekyll-spaceship:
   # default enabled processors
