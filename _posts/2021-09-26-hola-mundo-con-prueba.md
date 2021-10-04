@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Prueba, primera publicación"
+date: 2021-09-26 11:00:00 - 0500
+categories: jekyll update
+---
 # Prueba de titulo.
 
 
